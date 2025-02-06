@@ -35,7 +35,7 @@ version is available from your command line. You can check this by running:
 
 .. tab:: Unix/macOS
 
-    .. code-block:: bash
+    .. code:: bash
 
         python3 --version
 
@@ -105,7 +105,7 @@ check this by running:
 
 .. tab:: Windows
 
-    .. code-block:: bat
+    .. code: bat
 
         py -m pip --version
 
@@ -121,7 +121,7 @@ standard library:
 
 .. tab:: Unix/macOS
 
-    .. code-block:: bash
+    .. code: bash
 
         python3 -m ensurepip --default-pip
 
